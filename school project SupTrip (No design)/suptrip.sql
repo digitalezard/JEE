@@ -114,7 +114,7 @@ INSERT INTO `etudiants` (`idbooster`, `mail`, `mdp`, `first_name`, `last_name`, 
 (213975, '213975@supinfo.com', 'essai1', 'Maximilien', 'Guillas', 1),
 (545455, '545455@supinfo.com', 'triforce', 'Link', 'Link', 5),
 (655455, '655455@supinfo.com', 'Mdp', 'niak', 'niak', 2);
-
+(122112, '122112@supinfo.com', 'alpha', 'John', 'Doe', 2);
 -- --------------------------------------------------------
 
 --
